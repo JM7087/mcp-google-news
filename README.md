@@ -66,8 +66,9 @@ Exemplo simples que funciona neste repositório:
     "servers": {
         "mcp-google-news": {
             "command": "php",
-            "args": ["mcpGoogleNews.php"],
-            "cwd": "c:\\mcp-google-news\\mcp-google-news"
+            "args": [
+            "c:\\mcp-google-news\\mcp-google-news"
+            ]
         }
     }
 }
