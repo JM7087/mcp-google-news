@@ -1,0 +1,9 @@
+{
+    "servers": {
+        "mcp-google-news": {
+            "command": "php",
+            "args": ["c:\\mcp-google-news\\mcpGoogleNews.php"]
+        }
+    }
+
+}

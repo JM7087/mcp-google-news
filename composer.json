@@ -1,0 +1,16 @@
+{
+    "name": "mcpnoticia/mcp-server",
+    "description": "MCP Server em PHP para notícias, data/hora e cotação de moedas",
+    "type": "project",
+    "require": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "McpNoticia\\": "src/"
+        }
+    },
+    "scripts": {
+        "start": "php server.php"
+    }
+}
