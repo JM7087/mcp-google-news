@@ -1,4 +1,4 @@
-# MCP Google News — servidor MCP em PHP
+# MCP Google News
 
 Um servidor MCP (Model Context Protocol) em PHP que expõe ferramentas úteis para buscar notícias, obter data/hora e consultar cotações.
 
